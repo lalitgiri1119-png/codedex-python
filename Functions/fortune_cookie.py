@@ -20,10 +20,6 @@ Bonus: If you're daring, rewrite the function without an if/elif/else '''
 
 # Write code below 💖
 
-# Write code below 💖
-
-# Write code below 💖
-
 import random 
 def your_fortune():
   
